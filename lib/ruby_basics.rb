@@ -26,6 +26,6 @@ end
 last_evaluated_value
 
 def pizza_party (doublecheese=cheese)
-  return doublecheese
+  return "cheese"
 
 end
